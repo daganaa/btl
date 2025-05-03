@@ -4,8 +4,6 @@
 
 A social media platform for film students and professionals alike.
 
-i screwed up my version control a tad
-
 **MVP by Nathan Thai**
 
 Links:
